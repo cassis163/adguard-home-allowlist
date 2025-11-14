@@ -1,5 +1,7 @@
 # AdGuard Home Allowlists
 
+Contains a set of allowlists and bundles them together in `./allowlist.txt`.
+
 ## How to use
 
 1. Fork this repo
