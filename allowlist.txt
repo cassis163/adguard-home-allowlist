@@ -2344,3 +2344,5 @@ udp://www.torrent.eu.org:451/announce
 @@|www.easyusenet.nl^$important
 @@|www.hitnews.com^$important
 @@|www.nzbcloud.com^$important
+@@|mullvad.net^$important
+@@|protonvpn.com^$important
