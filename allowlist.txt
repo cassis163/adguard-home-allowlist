@@ -2365,6 +2365,7 @@ udp://www.torrent.eu.org:451/announce
 @@||playgrandmasters.com^$important
 @@||jackli.gg^$important
 @@||chessbase.com^$important
+@@||r2.dev^$important
 
 @@||creative.ak.fbcdn.net^$important
 @@||external-lhr0-1.xx.fbcdn.net^$important

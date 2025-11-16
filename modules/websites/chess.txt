@@ -20,3 +20,4 @@
 @@||playgrandmasters.com^$important
 @@||jackli.gg^$important
 @@||chessbase.com^$important
+@@||r2.dev^$important
