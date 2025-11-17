@@ -2388,6 +2388,8 @@ udp://www.torrent.eu.org:451/announce
 @@||mqtt.c10r.facebook.com^$important
 @@||portal.fb.com^$important
 @@||star.c10r.facebook.com^$important
+@@||mailchimp.com^$important
+@@||intuit.com^$important
 
 @@|mullvad.net^$important
 @@|protonvpn.com^$important
