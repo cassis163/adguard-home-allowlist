@@ -2391,5 +2391,7 @@ udp://www.torrent.eu.org:451/announce
 @@||mailchimp.com^$important
 @@||intuit.com^$important
 
-@@|mullvad.net^$important
-@@|protonvpn.com^$important
+@@||torproject.org^$important
+
+@@||mullvad.net^$important
+@@||protonvpn.com^$important
