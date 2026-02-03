@@ -25,7 +25,9 @@
 @@|images-ext-2.discordapp.net^$important
 @@|images.discordapp.net^$important
 @@|media.discordapp.net^$important
-@@|status.discord.com^$important@@|*-premium.nexus-cdn.com^$important
+@@|status.discord.com^$important
+@@|postcodeloterij.nl^$important
+@@|*-premium.nexus-cdn.com^$important
 @@|*-prod.wwzapi.com^$important
 @@|*.australiasoutheast.cloudapp.azure.com^$important
 @@|*.cloudapp.azure.com^$important
